@@ -1,0 +1,2 @@
+- npx create-expo-app@latest
+- npm run ios
